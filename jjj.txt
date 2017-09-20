@@ -1,3 +1,8 @@
 的点点滴滴多dddd
 
 dddddd
+大时代发斯蒂芬
+
+taging 即版本库中的stage，是暂存区。修改已经添加进repository，但还没有作为commit提交，类似于缓存；
+Local repository 即版本库中master那个地方。到这一步才算是成功生成一个新版本；
+Remote repository 则是远程仓库。用来将本地仓库上传到网络，可以用于备份、共享、合作。本文将使用Github作为远程仓库的例子。
